@@ -3,3 +3,7 @@
 #example readme
 
 commit for rebase
+
+#proper
+
+this is bullshit
